@@ -1,4 +1,5 @@
 # mullvadvpn-apt
+# The repository is moved to https://github.com/GHaaAPT/mullvadvpn-apt
 Unofficial APT repository for [MullvadVPN](https://github.com/mullvad/mullvadvpn-app) that will check for updates regularly
 
 EZ update your Mullvad VPN Debian/Ubuntu client
